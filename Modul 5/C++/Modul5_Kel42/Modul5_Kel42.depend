@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1712138965 source:c:\users\asus\onedrive\dokumen\modul1\modul5_kel42\main.cpp
+	<iostream>
+	"userService.cpp"
+
+1712201031 c:\users\asus\onedrive\dokumen\modul1\modul5_kel42\userservice.cpp
+	<iostream>
+	<string>
+
+1712201031 source:c:\users\asus\onedrive\dokumen\modul1\modul5_kel42\userservice.cpp
+	<iostream>
+	<string>
+
